@@ -23,8 +23,7 @@ int main(void){
 		exit(0);
 		}
 		else{
-			a=b;
-		
+		     a=b;
 		     b=c ;
 		}     	 
 	}
